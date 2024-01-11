@@ -1,3 +1,4 @@
+![logo](https://github.com/arpitajadhav9/arpitajadhav9/blob/main/git%20banner.png)
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Yashika Thakur</h1>
 🔭 I’m currently studying computer science engineering<br>🌱 I’m currently learning python<br>👨‍💻 All of my projects are available at https://github.com/Yashika1311<br><br>

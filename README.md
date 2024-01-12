@@ -1,4 +1,4 @@
-<img align="centre">![logo](https://github.com/Yashika1311/Yashika1311/blob/main/gitbanner.png)</img>
+<img align="centre">![logo](https://github.com/Yashika1311/Yashika1311/blob/main/banner.png)</img>
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Yashika Thakur</h1>
 🔭 I’m currently studying computer science engineering<br>🌱 I’m currently learning python<br>👨‍💻 All of my projects are available at https://github.com/Yashika1311<br><br>

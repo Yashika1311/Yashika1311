@@ -2,7 +2,7 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Yashika Thakur</h1>
 🔭 I’m currently studying computer science engineering<br>🌱 I’m currently learning python<br>👨‍💻 All of my projects are available at https://github.com/Yashika1311<br><br>
-<img align="right" alt="coding" width="400" src="">
+<img align="right" alt="coding" width="400" src="https://github.com/Yashika1311/Yashika1311/blob/main/Screenshot%202024-01-13%20at%2010.20.52%20AM.png">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yashika-thakur-6b6760283/) 
